@@ -13,4 +13,5 @@ document.addEventListener('DOMContentLoaded', function() {
         // Optional: Log to the console for debugging
         console.log("Contact button clicked.");
     });
+
 });
